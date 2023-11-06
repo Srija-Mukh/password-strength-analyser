@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/password-strength-analyser/static/css/main.073c9b0a.css",
+    "main.js": "/password-strength-analyser/static/js/main.ebf4db8d.js",
+    "static/js/787.b4be273a.chunk.js": "/password-strength-analyser/static/js/787.b4be273a.chunk.js",
+    "index.html": "/password-strength-analyser/index.html",
+    "main.073c9b0a.css.map": "/password-strength-analyser/static/css/main.073c9b0a.css.map",
+    "main.ebf4db8d.js.map": "/password-strength-analyser/static/js/main.ebf4db8d.js.map",
+    "787.b4be273a.chunk.js.map": "/password-strength-analyser/static/js/787.b4be273a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ebf4db8d.js"
+  ]
+}
